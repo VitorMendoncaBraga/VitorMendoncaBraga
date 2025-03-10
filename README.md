@@ -1,8 +1,10 @@
-Hi 👋, I'm Vitor Mendonça
+👋 Hi, I'm Vitor Mendonça
 
-A student of Information Systems by PUC Minas
+🎓 Information Systems Student at PUC Minas | 💻 Aspiring Full-Stack Developer
 
-- 🔭 I’m currently working on DeveloTech
-- 🌱 I’m currently learning C# and JS
-- 😄 Pronouns: ele/dela
+🔹 20 years old, passionate about technology and software development.
+🔹 Currently learning React, JavaScript, HTML, CSS, and Node.js.
+🔹 Focused on building modern web applications and expanding my skills in front-end and back-end development.
+
+Let's connect and build something amazing! 🚀
 
